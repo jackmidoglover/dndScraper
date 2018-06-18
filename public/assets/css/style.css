@@ -1,0 +1,65 @@
+html{
+    height: 100%;
+}
+
+.parralax{
+    background-image: url("../images/background.png");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.push{
+    height: 80px;
+}
+
+#banner{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #292928;
+}
+
+#logo{
+    width: 850px;
+    display: block;
+}
+
+.footer{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 949px;
+    height: 60px;
+    line-height: 30px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.footerText{ 
+    margin-bottom: 0;
+}
+.articles{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #292928;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    min-height: 100%;
+}
+
+.articleImg{
+    width: 100%;
+    height: 100px;
+}
+
+.storyCard{
+    margin-top: 10px;
+}
+
+.commentBox{
+    border: 1px solid darkgray;
+}
+
