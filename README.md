@@ -25,4 +25,4 @@ The technologies used in this News Scraper include:
 1. Adding a user database and authentication process so that users can save articles to their account
 
 ## See the App in Action
-[See the App in Action] (https://still-falls-80440.herokuapp.com/)
+[See the App in Action](https://still-falls-80440.herokuapp.com/)
