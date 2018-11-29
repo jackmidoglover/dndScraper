@@ -10,15 +10,19 @@ Users can then comment on articles of interest and save them.
 ## User Interaction
 When the user enters the page they are led to a page where they can choose to scrape for new articles from either D&D Beyond or Wizards of the Coast. 
 
-<img src="./public/assets/images/dndScrapeAction.gif" width="400px" height="360px">
+<img src="./public/assets/images/dndScrapeAction.gif" width="400px" height="350px">
 
 They can then filter which source they want to look at articles from, WoTC or D&D Beyond.
 
-<img src="./public/assets/images/dndFilterAction.gif" width="400px" height="360px">
+<img src="./public/assets/images/dndFilterAction.gif" width="400px" height="350px">
 
 They can open a link to view the original article and read it. 
 
-<img src="./public/assets/images/dndLinkAction.gif" width="400px" height="360px">
+<img src="./public/assets/images/dndLinkAction.gif" width="400px" height="350px">
+
+The user can then click the comment button and leave a comment about what they thought about the article. 
+
+<img src="./public/assets/images/dndCommentAction.gif" width="400px" height="350px">
 
 ## What technologies are used? 
 The technologies used in this News Scraper include: 
