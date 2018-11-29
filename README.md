@@ -10,7 +10,7 @@ Users can then comment on articles of interest and save them.
 ## User Interaction
 When the user enters the page they are led to a page where they can choose to scrape for new articles from either D&D Beyond or Wizards of the Coast. 
 
-![Scrape](./public/assets/images/dndScrapeAction.gif "User Scrapes for Articles")
+<img src="./public/assets/images/dndScrapeAction.gif" style="width: 400px; height: 400px">
 
 ## What technologies are used? 
 The technologies used in this News Scraper include: 
