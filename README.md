@@ -12,6 +12,10 @@ When the user enters the page they are led to a page where they can choose to sc
 
 <img src="./public/assets/images/dndScrapeAction.gif" style="width: 400px; height: 400px">
 
+They can then filter which source they want to look at articles from, WoTC or D&D Beyond. 
+
+<img src="./public/assets/images/dndFilterAction.gif" style="width: 400px; height: 400px">
+
 ## What technologies are used? 
 The technologies used in this News Scraper include: 
 
