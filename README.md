@@ -1,12 +1,16 @@
 # D&D News Scraper
 
-![D&D Scraper](./public/assets/images/dndScraper.gif "D&D Scraper")
 
 ## What is it? 
 The D&D News Scraper is an application that allows its users to scrape for the latest news articles from two D&D related websites: D&D Beyond and Wizards of the Coast. 
 Users can then comment on articles of interest and save them. 
 
 ***
+
+## User Interaction
+When the user enters the page they are led to a page where they can choose to scrape for new articles from either D&D Beyond or Wizards of the Coast. 
+
+[!Scrape](./public/assets/images/dndScrapeAction.gif "User Scrapes for Articles")
 
 ## What technologies are used? 
 The technologies used in this News Scraper include: 
